@@ -1,5 +1,7 @@
 # MultithreadingSumulator
 
+# This project is made to simulate how multithreading plays a vital role in excecuting multiple tasks in a few seconds. I follow the approach called learning by doing and hence this is the best way to know about the concept by implementing.
+
 # Multitasking
 Multitasking is a process of executing multiple tasks simultaneously. We use multitasking to utilize the CPU. Multitasking can be achieved in two ways:
 
@@ -18,9 +20,14 @@ Multitasking is a process of executing multiple tasks simultaneously. We use mul
       Cost of communication between the thread is low.
 
 Task by task-:
+
+
+
 ![task by task](https://user-images.githubusercontent.com/89409457/183330719-0d41ac26-310c-4327-9d9e-17992c5c014b.gif)
 
 All tasks at a time-:
+
+
 ![all tasks](https://user-images.githubusercontent.com/89409457/183330799-407b0459-f627-4098-802c-66c5e8da2e3e.gif)
 
 Multithreading in java is a process of executing multiple threads simultaneously.
