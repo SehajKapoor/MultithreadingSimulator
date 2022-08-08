@@ -13,7 +13,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 public class MultithreadingSimulator {
     public static void main(String[] args) {
-     JFrame window =new JFrame ("Multithreading Simulator");
+     JFrame window =new JFrame ("Processus");
      window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
      window.setSize(500,500);
      window.setResizable(false);
