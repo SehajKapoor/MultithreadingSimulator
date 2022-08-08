@@ -1,4 +1,4 @@
-# MultithreadingSumulator
+# MultithreadingSimulator
 
 # This project is made to simulate how multithreading plays a vital role in excecuting multiple tasks in a few seconds. I follow the approach called learning by doing and hence this is the best way to know about the concept by implementing.
 
