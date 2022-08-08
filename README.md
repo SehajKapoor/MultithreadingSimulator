@@ -1,8 +1,9 @@
 # MultithreadingSimulator
 
-# This project is made to simulate how multithreading plays a vital role in excecuting multiple tasks in a few seconds. I follow the approach called learning by doing and hence this is the best way to know about the concept by implementing.
+This project is made to simulate how multithreading plays a vital role in excecuting multiple tasks in a few seconds. I follow the approach called learning by doing and hence this is the best way to know about the concept by implementing.
 
-# Multitasking
+<hr/>
+Multitasking
 Multitasking is a process of executing multiple tasks simultaneously. We use multitasking to utilize the CPU. Multitasking can be achieved in two ways:
 
 # Process-based Multitasking (Multiprocessing)
@@ -19,17 +20,21 @@ Multitasking is a process of executing multiple tasks simultaneously. We use mul
       A thread is lightweight.
       Cost of communication between the thread is low.
 
+<hr/>
 Task by task-:
 
 
 
 ![task by task](https://user-images.githubusercontent.com/89409457/183330719-0d41ac26-310c-4327-9d9e-17992c5c014b.gif)
 
+
 All tasks at a time-:
+
 
 
 ![all tasks](https://user-images.githubusercontent.com/89409457/183330799-407b0459-f627-4098-802c-66c5e8da2e3e.gif)
 
+<hr/>
 Multithreading in java is a process of executing multiple threads simultaneously.
 
 A thread is a lightweight sub-process, the smallest unit of processing. Multiprocessing and multithreading, both are used to achieve multitasking.
@@ -37,3 +42,4 @@ A thread is a lightweight sub-process, the smallest unit of processing. Multipro
 However, we use multithreading than multiprocessing because threads use a shared memory area. They don't allocate separate memory area so saves memory, and context-switching between the threads takes less time than process.
 
 Java Multithreading is mostly used in games, animation, etc.
+<hr/>
